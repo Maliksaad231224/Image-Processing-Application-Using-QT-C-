@@ -1,0 +1,9 @@
+C:/Users/awans/Documents/image_analysis/build/Desktop_Qt_6_7_0_llvm_mingw_64_bit-Debug/CMakeFiles/image_analysis.dir
+C:/Users/awans/Documents/image_analysis/build/Desktop_Qt_6_7_0_llvm_mingw_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/awans/Documents/image_analysis/build/Desktop_Qt_6_7_0_llvm_mingw_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/awans/Documents/image_analysis/build/Desktop_Qt_6_7_0_llvm_mingw_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/awans/Documents/image_analysis/build/Desktop_Qt_6_7_0_llvm_mingw_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/awans/Documents/image_analysis/build/Desktop_Qt_6_7_0_llvm_mingw_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/awans/Documents/image_analysis/build/Desktop_Qt_6_7_0_llvm_mingw_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/awans/Documents/image_analysis/build/Desktop_Qt_6_7_0_llvm_mingw_64_bit-Debug/CMakeFiles/image_analysis_autogen_timestamp_deps.dir
+C:/Users/awans/Documents/image_analysis/build/Desktop_Qt_6_7_0_llvm_mingw_64_bit-Debug/CMakeFiles/image_analysis_autogen.dir

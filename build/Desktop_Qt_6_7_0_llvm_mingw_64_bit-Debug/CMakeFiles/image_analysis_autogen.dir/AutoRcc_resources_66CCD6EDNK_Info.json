@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "C:/Users/awans/Documents/image_analysis/build/Desktop_Qt_6_7_0_llvm_mingw_64_bit-Debug/image_analysis_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/awans/Documents/image_analysis/build/Desktop_Qt_6_7_0_llvm_mingw_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/awans/Documents/image_analysis/build/Desktop_Qt_6_7_0_llvm_mingw_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/awans/Documents/image_analysis",
+	"CMAKE_SOURCE_DIR" : "C:/Users/awans/Documents/image_analysis",
+	"INCLUDE_DIR" : "C:/Users/awans/Documents/image_analysis/build/Desktop_Qt_6_7_0_llvm_mingw_64_bit-Debug/image_analysis_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/awans/Documents/image_analysis/resorces/IMG-20190808-WA0091-1.jpg"
+	],
+	"LOCK_FILE" : "C:/Users/awans/Documents/image_analysis/build/Desktop_Qt_6_7_0_llvm_mingw_64_bit-Debug/CMakeFiles/image_analysis_autogen.dir/AutoRcc_resources_66CCD6EDNK_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "66CCD6EDNK",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.7.0/llvm-mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/awans/Documents/image_analysis/build/Desktop_Qt_6_7_0_llvm_mingw_64_bit-Debug/CMakeFiles/image_analysis_autogen.dir/AutoRcc_resources_66CCD6EDNK_Used.txt",
+	"SOURCE" : "C:/Users/awans/Documents/image_analysis/resorces/resources.qrc",
+	"VERBOSITY" : 0
+}
